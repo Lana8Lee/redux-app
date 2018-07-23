@@ -25,7 +25,7 @@ body {
   top: -600%;
   height: 600%; /* 6X of .hello-world */
   width: 100%;
-  background: url("images/hello.svg") 50% 50% / contain no-repeat;
+  background: url("images/first.svg") 50% 50% / contain no-repeat;
 }
 .hello-world:after {
   position: absolute;
